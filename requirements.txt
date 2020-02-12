@@ -15,7 +15,7 @@ config==0.4.2
 configobj==5.0.6
 configparser==4.0.2
 contextlib2==0.6.0.post1
-Django==1.11.25
+Django==1.11.28
 dnspython==1.16.0
 funcsigs==1.0.2
 future==0.18.0
