@@ -67,7 +67,7 @@ TravisPy==0.3.5
 tweepy==3.8.0
 update-checker==0.16
 uritemplate==3.0.0
-urllib3==1.25.6
+urllib3==1.25.8
 wcwidth==0.1.7
 webencodings==0.5.1
 websocket-client==0.56.0
